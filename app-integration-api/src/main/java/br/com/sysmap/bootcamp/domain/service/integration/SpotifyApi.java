@@ -17,8 +17,8 @@ import java.util.List;
 public class SpotifyApi {
 
     private se.michaelthelin.spotify.SpotifyApi spotifyApi = new se.michaelthelin.spotify.SpotifyApi.Builder()
-            .setClientId("c7682b719f8d4ab488d9fcfa7fa8a5da")
-            .setClientSecret("feae72f118f64c4a86924f0d5b039d34")
+            .setClientId(/*insert your client id*/)
+            .setClientSecret(/*insert your client secret*/)
             .build();
 
     public List<AlbumModel> getAlbums(String search) throws IOException, ParseException, SpotifyWebApiException {
