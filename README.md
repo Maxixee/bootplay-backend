@@ -14,7 +14,7 @@
 
 ##### How to run the application
 You must have Docker installed to run the application locally.
-- ```git clone https://github.com/bc-fullstack-04/hiego-barreto-backend.git ``` To clone the repository in your IDE
+- ```git clone https://github.com/Maxixee/record-sales-backend.git ``` To clone the repository in your IDE
   - ```docker-compose -f docker-compose.yml build ``` To download images from Postgres, RabbitMQ and the 2 APIs
   - ```docker-compose -f docker-compose.yml up ``` To create containers
 
