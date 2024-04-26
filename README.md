@@ -64,7 +64,7 @@ You must have Docker installed to run the application locally.
 É necessário ter o Docker instalado para executar a aplicação localmente.
 - ```git clone https://github.com/Maxixee/record-sales-backend.git ``` Para clonar o repositório na sua IDE
   - ```docker-compose -f docker-compose.yml build ``` Para baixar as imagens do Postgres, RabbitMQ e das 2 APIs
-  - ```docker-compose -f docker-compose.yml up ``` Para criar os containers
+  - ```docker-compose -f docker-compose.yml up ``` Para criar os containers.
 
 - Realizados estes comandos, basta buildar e executar o backend na sua IDE.
 
