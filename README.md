@@ -82,7 +82,7 @@ You must have Docker installed to run the application locally.
 
 ---
 # Serviço Autenticação
-###### A autenticação é realizada através do endpoint '/api/users/auth', aonde realiza o verbo POST, obtendo o email e a senha, retornando os dados do usuários, além  de gerar um token de autenticação.
+###### A autenticação é realizada através do endpoint '/api/users/auth', onde realiza o verbo POST, obtendo o email e a senha, retornando os dados do usuários, além  de gerar um token de autenticação.
 
 ---
 ### Token de autenticação
